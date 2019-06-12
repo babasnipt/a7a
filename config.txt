@@ -1,6 +1,6 @@
 token=NTg0NjY1ODg5Mjc5MDQ5NzI4.XPOUxQ.gqzuoBYsNajWEKtZHHX5aGPLQPc
 owner=317380201728311296 
 prefix=1
-game=1help
+game=𝓟𝓢𝓣 | الشيخ اسنبت الروحاني
 stayinchannel=true
 songinstatus=true
